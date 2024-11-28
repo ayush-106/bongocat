@@ -2,9 +2,12 @@
   content: '';
   width: 200px;
   height: 157px;
-  right: 50px;
-  bottom: calc(100% - 7px);
+  bottom: calc(100% - 102px);
+  left: calc(100% - 69px);
   position: absolute;
   image-rendering: auto;
   background-image: url("https://raw.githubusercontent.com/ayush-106/bongocat/main/bongo-cat-outline.gif");
+  background-size: 69px;
+  transform: rotate(-14deg);
+  background-repeat: no-repeat
 }
