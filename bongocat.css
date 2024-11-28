@@ -1,21 +1,11 @@
 .player-controls .playback-progressbar::before {
   content: "";
-  width: 32px;
-  height: 32px;
-  bottom: calc(100% - 7px);
-  right: 10px;
+  width: 200px;
+  height: 157px;
   position: absolute;
-  image-rendering: pixelated;
+  image-rendering: auto;
   background-image: url("https://raw.githubusercontent.com/ayush-106/bongocat/main/bongo-cat-outline.gif");
-  animation: cat 1s infinite;
-}
-@keyframes cat {
-  0%,
-  50% {
-    background-position: -64px 0;
-  }
-  50.0001%,
-  100% {
-    background-position: -64px -32px;
-  }
+  background-position: center;
+  background-size: cover; 
+  background-repeat: no-repeat;
 }
