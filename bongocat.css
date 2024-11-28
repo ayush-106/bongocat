@@ -6,7 +6,7 @@
   right: 10px;
   position: absolute;
   image-rendering: pixelated;
-  background-image: url("https://github.com/ayush-106/bongocat/blob/main/bongo-cat-outline.gif");
+  background-image: url("https://raw.githubusercontent.com/ayush-106/bongocat/main/bongo-cat-outline.gif");
   animation: cat 1s infinite;
 }
 @keyframes cat {
