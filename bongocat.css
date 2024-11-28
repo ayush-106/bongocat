@@ -6,10 +6,10 @@
   right: 10px;
   position: absolute;
   image-rendering: pixelated;
-  background-image: url("https://raw.githubusercontent.com/adryd325/oneko.js/14bab15a755d0e35cd4ae19c931d96d306f99f42/oneko.gif");
-  animation: oneko 1s infinite;
+  background-image: url("https://github.com/ayush-106/bongocat/blob/main/bongo-cat-outline.gif");
+  animation: cat 1s infinite;
 }
-@keyframes oneko {
+@keyframes cat {
   0%,
   50% {
     background-position: -64px 0;
