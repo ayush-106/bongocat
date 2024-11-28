@@ -1,3 +1,2 @@
 # bongocat
-
-![image](https://github.com/user-attachments/assets/5c92d2f1-6bea-4833-9543-35bfc62fb030)
+![image](https://github.com/user-attachments/assets/4fd66f35-51c0-435b-b12f-0456fd2884cf)
